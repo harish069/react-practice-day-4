@@ -1,0 +1,7 @@
+.singleDiv {
+  display: flex;
+}
+.singleDiv > div {
+  width: 200px;
+  border: 1px solid black;
+}
